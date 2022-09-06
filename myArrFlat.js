@@ -16,5 +16,6 @@ const flatten2 = (arr) => {
   }
 }
 
+
 const arr = [1, [2, [3]]]
 
